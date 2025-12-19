@@ -8,14 +8,18 @@
 
 <br clear="both">
 
-<h1 align="center">Hey, I´m EinSchnitzelchen</h1>
-<h3 align="center">A german (mainly backend) developer</h3>
+<h1 align="center">Hey 👋 I’m Julien, better known as EinSchnitzelchen</h1>
+<h3 align="center"> A german developer with a strong focus on backend development, AI and game technology.</h3>
 
-<h4 align="center"> 🔭 I’m currently working on A selfwritten LLM and My Videogame :)</h4>
+<p align="center">
+I have experience with multiple programming languages, databases and tools, and I enjoy building everything from APIs and automation systems to neural networks and games.  
+Right now, I’m working on a self-written large language model and a videogame, while continuously expanding my knowledge in PyTorch, GDScript and AI automation.
+</p>
 
-<h4 align="center">🌱 I’m currently learning Pytorch, GDScript and AI Automation Things </h4>
+<p align="center">
+What drives me is curiosity: understanding how systems work internally, optimizing performance and creating projects that actually solve problems or are fun to use.  
+If you’re interested in collaboration, need help with a problem or just want to talk tech — don’t hesitate to contact me.
 
-<p align="left">
 </p>
 
 <h3 align="left">My Languages and Tools I´ve worked with:</h3>
