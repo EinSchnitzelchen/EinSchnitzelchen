@@ -11,14 +11,14 @@
 <h1 align="center">Hey, I´m EinSchnitzelchen</h1>
 <h3 align="center">A german (mainly backend) developer</h3>
 
-- 🔭 I’m currently working on **A selfwritten LLM and My Videogame :)**
+<h4 align="center"> 🔭 I’m currently working on A selfwritten LLM and My Videogame :)</h4>
 
-- 🌱 I’m currently learning **Pytorch, GDScript and AI Automation Things**
+<h4 align="center">🌱 I’m currently learning Pytorch, GDScript and AI Automation Things </h4>
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Languages and Tools I´ve worked with:</h3>
 <p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
