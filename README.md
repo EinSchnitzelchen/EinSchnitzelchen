@@ -81,6 +81,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  /> </a> </p>
 
-<img src="https://raw.githubusercontent.com/EinSchnitzelchen/EinSchnitzelchen/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EinSchnitzelchen/EinSchnitzelchen/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
