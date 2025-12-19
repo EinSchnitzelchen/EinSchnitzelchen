@@ -17,7 +17,7 @@ Right now, I’m working on a self-written large language model and a videogame,
 </p>
 
 <p align="center">
-What drives me is curiosity: understanding how systems work internally, optimizing performance and creating projects that actually solve problems or are fun to use.  
+What drives me is curiosity: understanding how systems work internally, optimizing performance and creating projects that actually solve problems or are fun to use (If i will finally be able to complete one of them o_O).  
 If you’re interested in collaboration, need help with a problem or just want to talk tech — don’t hesitate to contact me.
 
 </p>
